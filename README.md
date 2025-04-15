@@ -1,1 +1,2 @@
 # DATASET
+The data for our dataset was gathered solely from real-world sources. The dataset "Budget2024" was constructed using Twitter data. To assess the success of the Indian government, we chose to focus on the Indian budget because it was trending on Twitter and tweets were readily available. The tweets about the recently released Indian Government Budget 2024 on February 1, 2024, were collected using the Twitter API. The dataset contains 10328 tweets from January 29th, 2024 to February 19th, 2024.
